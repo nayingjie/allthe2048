@@ -26,10 +26,6 @@
   name: 2048-Multiplayer
   author: Emil Stolarsky
   
-- url: http://community.usvsth3m.com/2048/1024-edition-1375/
-  name: 2048 - 1024 Edition
-  author: Tommy Najor
-
 - url: http://rudradevbasak.github.io/16384_hex/
   name: Hex 16384
   author: Rudradev Basak
@@ -657,3 +653,7 @@
 - url: http://paul.emik.free.fr/2048
   name: 2048 D00M edition
   author: Korvus
+
+- url: http://community.usvsth3m.com/2048/1024-edition-1375/
+  name: 2048 - 1024 Edition
+  author: Tomsterley
