@@ -657,3 +657,7 @@
 - url: http://community.usvsth3m.com/2048/1024-edition-1375/
   name: 2048 - 1024 Edition
   author: Tomsterley
+
+- url: http://github.com/DamnDam/xl2048
+  name: xl2048 - VBA Excel port of 2048
+  author: Damien Thirion
