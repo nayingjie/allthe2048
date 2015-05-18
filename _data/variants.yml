@@ -661,3 +661,7 @@
 - url: http://github.com/DamnDam/xl2048
   name: xl2048 - VBA Excel port of 2048
   author: Damien Thirion
+
+- url: http://community.usvsth3m.com/2048/rgb-edition-9
+  name: 2048 - RGB Edition
+  author: Lucas Naceri
