@@ -62,10 +62,6 @@
   name: Deterministic 2048
   author: jmfork
 
-- url: http://t2.technion.ac.il/~s7395779/
-  name: 11
-  author: Elazar Gershuni
-
 - url: http://hgentry.github.io/81/
   name: 243
   author: Harrison Gentry
@@ -133,10 +129,6 @@
 - url: http://www.matimenkes.com/2048/justinbieber/
   name: 2048 - Justin Bieber
   author: Mati Menkes
-
-- url: http://duarteduarte.tk/2048/
-  name: 2048 - A Mostly Wrong History of Programming Languages
-  author: Duarte Duarte & JP Dias
 
 - url: http://la-oui.ch/troll2048/
   name: troll2048
@@ -450,10 +442,6 @@
   name: Isotopic 2048
   author: James Donnelly
 
-- url: http://2048.wiity.net/
-  name: 2048 in French
-  author: wiity.net
-
 - url: http://games.usvsth3m.com/2048/minecraft-edition-837/
   name: Minecraft 2048
   author: coddyer18
@@ -628,11 +616,7 @@
 
 - url: http://2048alphabet.com/fibonacci/
   name: 2584 Fibonacci
-  author: Misho M. Petkovic 
-  
-- url: http://eway0.com/2048/
-  name: 1 048 576
-  author: Maxime Meurisse
+  author: Misho M. Petkovic
   
 - url: http://games.usvsth3m.com/2048/super-macaron-edition/
   name: Macarons
