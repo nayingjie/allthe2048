@@ -669,3 +669,6 @@
 - url: http://community.usvsth3m.com/2048/prime-numbers-edition-29/
   name: 2048 - Prime Numbers Edition
   author: Lucas Naceri
+- url: http://viktorahlstrom.github.io/metric2048/
+  name: Metric 2048
+  author: Viktor Ahlström
